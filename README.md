@@ -54,3 +54,8 @@ To use the code:
 
 3. Run the respective Python scripts to train and evaluate the models for image classification.
 
+## Author
+
+- [Mohamed Abobakr](https://github.com/bakar10)
+- [Nour Hamdy](https://github.com/NourHamdyy)
+- [Mariam Elsabagh](https://github.com/MariamElsbagh)
