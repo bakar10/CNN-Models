@@ -38,8 +38,5 @@ To use the code:
 
 3. Run the Python script to train and evaluate the Inception model on the MNIST dataset.
 
-## Scripts
-
-- **inception_mnist_classification.py**: Python script for training and evaluating the Inception model on the MNIST dataset.
 
 
