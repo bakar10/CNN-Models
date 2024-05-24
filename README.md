@@ -1,6 +1,6 @@
 # PreTrained Models for Image Classification
 
-This repository contains implementations of various machine learning models for image classification tasks, including Convolutional Neural Networks (CNNs) and Transfer Learning models.
+This repository contains implementations of various deep learning models for image classification tasks, including Convolutional Neural Networks (CNNs) and Transfer Learning models.
 
 ## Contents
 
