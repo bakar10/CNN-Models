@@ -35,7 +35,4 @@ To use the code:
 
 3. Run the Python script to train and evaluate the LeNet-5 model on MNIST and CIFAR-10 datasets.
 
-## Scripts
-
-- **lenet5_image_classification.py**: Python script for training and evaluating the LeNet-5 model on MNIST and CIFAR-10 datasets.
 
