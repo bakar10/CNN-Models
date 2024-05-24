@@ -36,8 +36,3 @@ To use the code:
 
 3. Run the Python script to train and evaluate the ResNet50 model on MNIST and CIFAR-10 datasets.
 
-## Scripts
-
-- **resnet50_image_classification.py**: Python script for fine-tuning the ResNet50 model on MNIST and CIFAR-10 datasets.
-
-
